@@ -1,0 +1,10 @@
+:root {
+    --primaryColor: black;
+    --secondaryColor: white;
+    --backgroundColor: blue;
+    --hoverColor:#F53855;
+    --darkModeColor: black;
+    --primary-color: #F53855;
+    --title-color: #0B132A;
+    --desc-color: #4F5665;
+}
